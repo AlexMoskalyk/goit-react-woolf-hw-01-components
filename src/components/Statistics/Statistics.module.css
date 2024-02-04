@@ -1,0 +1,38 @@
+.statistics {
+  background-color: white;
+  width: 250px;
+  margin: auto;
+  margin-top: 25px;
+}
+
+.docx {
+  background-color: brown;
+}
+.pdf {
+  background-color: aqua;
+}
+
+.mp3 {
+  background-color: burlywood;
+}
+
+.psd {
+  background-color: beige;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 15px;
+}
+.stat_list {
+  display: flex;
+
+  align-items: center;
+}
